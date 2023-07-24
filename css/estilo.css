@@ -15,3 +15,7 @@ body {
 }
 
 /* Formatação de imagens */
+figure.logo img{
+  width: 100%;
+  heidth: 100%;
+}
