@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+  font-family: Brush Script MT;
+  font-size: 80pt;
+  color: orange;
+  text-shadow: 4px 4px 4px black;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+body {
+  background-color: #a1d3ef;
+}
