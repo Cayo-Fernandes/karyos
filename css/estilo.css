@@ -36,9 +36,4 @@ nav#menu li {
   background-color: #dddddd;
   padding: 10 px;
   margin: 2 px;
-  transition: background-color: 2s;
-}
-
-nav#manu li:hover {
-  background-color: #606060;
 }
