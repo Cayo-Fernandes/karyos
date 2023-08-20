@@ -27,8 +27,7 @@ figure.logo img {
 nav#menu ul {
   list-style: none;
   text-transform: uppercase;
-  top: 0 px;
-  text-align: center;
+  margin: auto;
 }
 
 nav#menu li {
