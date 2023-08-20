@@ -28,3 +28,11 @@ nav#menu ul {
   list-style: none;
   text-transform: uppercase;
 }
+
+nav#menu li {
+  display: inline-block;
+  background-color: #dddddd;
+  padding: 10 px;
+  margin: 2 px;
+  transition: background-color: 2s;
+}
