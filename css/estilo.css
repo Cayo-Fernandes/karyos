@@ -21,3 +21,10 @@ figure.logo img {
   margin: auto;
   display: block;
 }
+
+/* Formatação do Menu */
+
+nav#menu ul {
+  list-style: none;
+  text-transform: uppercase;
+}
